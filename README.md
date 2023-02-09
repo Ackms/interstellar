@@ -1,2 +1,2 @@
 # interstellar
-the site of the time
+a collection of sites and links for your entertainment
