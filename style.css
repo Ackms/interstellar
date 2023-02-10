@@ -18,12 +18,3 @@ body {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
   text-align: center;
 }
-.center {
-  width: 960px;
-  height: 780px;
-  position: absolute;
-  left: 50%;
-  top: 50%; 
-  margin-left: -480px; 
-  margin-top: -390px; 
-}
