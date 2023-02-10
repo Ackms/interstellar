@@ -4,12 +4,13 @@ body {
   text-align: center;
 }
 button {
-width: "100"; height: "50";
+width: 100px; height: 50px;
 border: 30px double rgb(255, 255, 255);
 color:rgb(4, 0, 114);
 border-radius: 30px;
 font-size: 28px;
 cursor: pointer;
+background-color: darkblue;
 }
 button:hover {
   background-color: #05009c;
