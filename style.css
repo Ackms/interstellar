@@ -1,5 +1,11 @@
 body {
+<<<<<<< HEAD
+  background-color: darkgray;
+=======
   background-color: darkgray;
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;;
+>>>>>>> 20c6ea5dff871cd9f546faefa733fe2cc33f0815
+}
+p{
 }
