@@ -4,7 +4,7 @@ background-color: rgb(2, 0, 62);
 width: 200px; height: 100px;
 border-radius: 30px;
 border: 5px double white;
-border-color: rgb(255, 255, 255); /*this is a mess*/
+border-color: rgb(255, 255, 255); 
 -webkit-transition: all 0.5s; 
 -moz-transition: all 0.5s; 
 -o-transition: all 0.5s; 
@@ -17,4 +17,11 @@ body {
   background-color: rgb(31, 4, 107);
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
   text-align: center;
+}
+header {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
+  text-align: center;
+  color: rgb(255, 255, 255);
+  font-size: 35px;
+
 }
