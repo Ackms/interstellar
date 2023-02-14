@@ -1,3 +1,7 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
 
 button {
 background-color: rgb(2, 0, 62);
@@ -13,10 +17,17 @@ transition: all 0.5s;
 button:hover {
   background-color: #05009c;
 }
-body {
-  background-color: rgb(31, 4, 107);
+iframe {
+ position: absolute; 
+  bottom: 0;
+  left: 0;
+  border: 20px;
+}
+body { 
+  
+  background-color: rgb(17, 2, 59);
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
-  text-align: center;
+  text-align: center; 
 }
 header {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, monospace;
